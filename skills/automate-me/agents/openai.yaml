@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automate Me"
+  short_description: "Plan and build lightweight work automations"
+  default_prompt: "Use $automate-me to help me find, plan, and build the smallest useful automation for a repeated workflow."
