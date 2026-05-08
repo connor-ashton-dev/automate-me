@@ -6,9 +6,12 @@ It guides an agent to:
 
 - Find a repetitive workflow worth automating.
 - Narrow the first version to the smallest useful scope.
+- Capture the user's workflow language so future agents reuse the same terms.
 - Choose the simplest build shape: prompt, spreadsheet, no-code integration, script, website, workflow, or agent.
+- Classify the first version as manual, supervised, scheduled, or autonomous.
+- Confirm the right repo or folder before writing implementation files.
 - Write a plain-English plan before building.
-- Leave setup, test, troubleshooting, and rollback notes for future agents.
+- Capture data access, approval, rollout, logging, troubleshooting, and rollback notes for future agents.
 
 ## Install
 
